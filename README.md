@@ -1,6 +1,6 @@
-# vue-simple
+# Vue Filters & Mixins Project
 
-> A simple Vue.js project
+> A simple project going through the functions of vue filters and mixins
 
 ## Build Setup
 
