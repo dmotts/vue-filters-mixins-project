@@ -1,7 +1,6 @@
 export const fruitMixin = {
     data() {
         return {
-            text: 'Hello there!',
             fruits: ['Apple', 'Banana', 'Mango', 'Melon'],
             filterText: ''
         }
@@ -12,5 +11,8 @@ export const fruitMixin = {
                 return element.match(this.filterText);
             });
         }
+    },
+    created() {
+        console.log('Created');
     }
 };
