@@ -1,6 +1,6 @@
 {
-  "name": "vue-simple",
-  "description": "A simple Vue.js project",
+  "name": "vue-filters-mixins-project",
+  "description": "A simple project going through the functions of vue filters and mixins",
   "version": "1.0.0",
   "author": "Daley <daley.mottley@hotmail.com>",
   "license": "MIT",
